@@ -42,8 +42,8 @@ Currently exploring AI-driven testing solutions to enhance automation efficiency
 ---
 
 ## Featured Projects
-[![Dealer Locator Automation](https://github-readme-stats.vercel.app/api/pin/?username=YourUserName&repo=dealer-locator-automation&theme=default)](https://github.com/YourUserName/dealer-locator-automation)  
-[![Spring Boot MRF Tyres Clone](https://github-readme-stats.vercel.app/api/pin/?username=YourUserName&repo=springboot-mrf-tyres&theme=default)](https://github.com/YourUserName/springboot-mrf-tyres)  
+[![Dealer Locator Automation](comming soon)  
+[![Spring Boot MRF Tyres Clone](comming soon)  
 
 ---
 
