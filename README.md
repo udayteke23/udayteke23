@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-I am an Automation Test Engineer with 3.4 years of experience in designing, developing, and executing robust test automation frameworks for web applications, API testing, and end-to-end test cases.
+I am an Automation Test Engineer with 4+ years of experience in designing, developing, and executing robust test automation frameworks for web applications, API testing, and end-to-end test cases.
 
 I specialize in **Java, Selenium WebDriver, TestNG, Maven, REST Assured, and Allure Reports**, with hands-on expertise in CI/CD pipelines using Jenkins and GitHub Actions.
 
